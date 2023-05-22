@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/protfo/static/css/main.ad424af1.css",
+    "main.js": "/protfo/static/js/main.7c1d6cd1.js",
+    "static/media/home-bg.png": "/protfo/static/media/home-bg.62a287a4c574f4cefae5.png",
+    "static/media/b4.png": "/protfo/static/media/b4.ec360b89e4cb398056f7.png",
+    "static/media/b3.png": "/protfo/static/media/b3.f4b7f7bcbae04ff78a04.png",
+    "static/media/port1.jpg": "/protfo/static/media/port1.958144911965a4633a81.jpg",
+    "static/media/slick.svg": "/protfo/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/protfo/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/protfo/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/protfo/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/protfo/index.html",
+    "main.ad424af1.css.map": "/protfo/static/css/main.ad424af1.css.map",
+    "main.7c1d6cd1.js.map": "/protfo/static/js/main.7c1d6cd1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ad424af1.css",
+    "static/js/main.7c1d6cd1.js"
+  ]
+}
